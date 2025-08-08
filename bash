@@ -1,5 +1,3 @@
-first commit
-second commi
-third committ
+first committ
 this is 4th commit
 
